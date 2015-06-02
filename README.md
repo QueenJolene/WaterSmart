@@ -13,6 +13,7 @@ Provide	samples	of usage of	your interface,	and	explain	why	you	think your data 
 ###### Functionality
 
 Takes arguments from user via a commandline prompt.
+Prints to stdout
 
 To run:
 
@@ -22,13 +23,17 @@ Clone repository and type the following command:
 
 
 ###### Assumptions:
+
 1.) Data does not need to persist after program closes.
 
 For simplicity:
 1.) Cannot have multiple contacts with the same name.
+
 2.) Contacts cannot share phone numbers.  Code could be modified to accommodate number sharing, but since
 the directions did not specify, I kept it simple.
+
 3.) There is a "holder function" for and edit contact option. Did not implement functionality since exercise did not require it. Just printed "This is where I would do something" as a place holder.
+
 4.) Can only accommodate 1 mobile, 1 home, and 1 work number.  
 
 ###### Data Structure Choice:
