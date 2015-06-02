@@ -31,7 +31,7 @@ Clone repository and type the following command:
 3.) Contacts cannot share phone numbers.  Code could be modified to accommodate number sharing, but since
 the directions did not specify, I kept it simple.
 
-4.) There is a "holder function" for and edit contact option. Did not implement functionality since exercise did not require it. Just printed "This is where I would do something" as a place holder.
+4.) There is a "holder function" for an edit contact option. Did not implement functionality since exercise did not require it. Just printed "This is where I would do something" as a place holder.
 
 5.) Can only accommodate 1 mobile, 1 home, and 1 work number.  
 
